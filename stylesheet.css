@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(186, 225, 247);
+    background-color: rgb(230, 0, 180);
   }
   
   @media only screen and (max-width: 600px) {
       
     body {
-      background-color: rgb(164, 149, 167);
+      background-color: rgb(255, 251, 0);
     }
   }
 .image-container{
